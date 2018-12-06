@@ -1,5 +1,5 @@
 There are many personal websites, this is mine.
 
-### Feedback
-
-- 👋 [@_bgian](http://twitter.com/_bgian)
+- 💬 [@_bgian](http://twitter.com/_bgian)
+- 📸 [Instagram](https://www.instagram.com/_bgian/)
+- 🙇🏻‍♂️ [Angel](https://angel.co/bgian)
