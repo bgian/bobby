@@ -1,5 +1,6 @@
 import React from 'react';
 import ColorScroll from 'react-color-scroll';
+import ReactGA from 'react-ga';
 
 import Wrapper from 'components/Wrapper';
 import Header from 'components/Header';
@@ -31,6 +32,11 @@ class LandingComponent extends React.Component {
     if (portfolioYPos < 700) {
       this.setState({ animateIn: true });
     }
+  }
+
+  componentDidMount() {
+    ReactGA.initialize('UA-63294885-1');
+    ReactGA.pageview(window.location.pathname + window.location.search);
   }
 
   render() {
