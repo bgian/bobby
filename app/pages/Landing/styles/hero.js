@@ -12,6 +12,12 @@ const hero = styled.div`
   a:hover {
   	color: #111111;
   }
+
+  @media (max-width: 600px) {
+  	h1 {
+  		font-size: 50px;
+  	}
+  }
 `;
 
 export default hero;
