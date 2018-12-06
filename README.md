@@ -1,4 +1,4 @@
-Thank you [Joe](https://twitter.com/_jsmth) for helping with coding.
+Thank you [@_jsmth](https://twitter.com/_jsmth) for helping code.
 
 - 💬 [Twitter](http://twitter.com/_bgian)
 - 📸 [Instagram](https://www.instagram.com/_bgian/)
