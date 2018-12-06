@@ -1,0 +1,6 @@
+{
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true,
+  "eslint.packageManager": "yarn",
+  "editor.tabSize": 2
+}

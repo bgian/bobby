@@ -1,0 +1,7 @@
+{
+  "name": "UpTools",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "splash_pages": null
+}
