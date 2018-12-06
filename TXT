@@ -1,1 +1,1 @@
-heroku-domain-verification=dn8nqijbfifdj6bx12rwjrcwvyc0fhtkdg1gyedj8
+heroku-domain-verification=zlyzt4uutwb89ekw9kmnjvqgbbkhipateoc/11yb1hk
