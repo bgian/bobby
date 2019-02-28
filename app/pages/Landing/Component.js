@@ -86,7 +86,7 @@ class LandingComponent extends React.Component {
               with="jour "
               tagline="is self-care through journaling"
               tags="Co-founder, Designer"
-              link="http://withjour.com"
+              link="https://itunes.apple.com/us/app/jour-guided-journaling/id1439590239"
               image="jour"
             />
 
