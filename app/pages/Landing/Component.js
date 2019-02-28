@@ -49,7 +49,7 @@ class LandingComponent extends React.Component {
                 space. Spending my time in NYC & Paris.
               </P>
               <P small light bottom={25}>
-                Co-founder at <ArrowLink target="_blank" href="http://withjour.com/">Jour</ArrowLink>. Spend most of my time thinking 
+                Co-founder at <ArrowLink target="_blank" href="https://itunes.apple.com/us/app/jour-guided-journaling/id1439590239">Jour</ArrowLink>. Spend most of my time thinking 
                 about startups, design and product.
               </P>
               <P small light bottom={25}>
